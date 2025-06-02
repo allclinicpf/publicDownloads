@@ -1,4 +1,5 @@
 {
     "latestVersion": "2.0.5",
-    "latestVersionDownloadLink": "https://github.com/allclinicpf/publicDownloads/releases/download/1.0.2/AllPrinterInstaller.msi"
+    "latestVersionDownloadLink": "https://github.com/allclinicpf/publicDownloads/releases/download/1.0.2/AllPrinterInstaller.msi",
+    "updateAll": true 
 }
